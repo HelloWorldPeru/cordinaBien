@@ -1,0 +1,23 @@
+#Desarrollo
+development:
+  adapter: postgresql
+  database: cordina_development
+  host: localhost
+  port: 5432
+  pool: 5
+
+#Test
+test:
+  adapter: postgresql
+  database: cordina_test
+  host: localhost
+  port: 5432
+  pool: 5
+
+#Produccion
+production:
+  adapter: postgresql
+  database: cordina_production
+  host: localhost
+  port: 5432
+  pool: 5

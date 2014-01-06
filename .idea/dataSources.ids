@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<component name="dataSourceStorage">
+  <data-source source="LOCAL" name="Rails cordinaBien: development" uuid="4ca3a002-fdfc-4764-af5b-591248109e31">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails cordinaBien: test" uuid="a844fcf4-3fb6-40f3-8628-e5ec56e60828">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+  <data-source source="LOCAL" name="Rails cordinaBien: production" uuid="c09e56df-0cf2-48e6-b8db-82514791cf11">
+    <database-info product="" version="" jdbc-version="" driver-name="" driver-version=""/>
+  </data-source>
+</component>
